@@ -20,3 +20,21 @@ function add(num1, num2){
     //num1 is:10
     //num2 is:20
     //el console.log imprime 30    
+
+    var x = 75;
+if (x > 100) {    
+    console.log("mayor que 100");
+}
+else if (x > 50) {    
+    console.log(" 50");
+}
+else if(x > 25) {
+    console.log("mayor que 25");
+}
+else {    
+    console.log("número pequeño");
+}
+
+else if(x > 25) {
+    console.log("mayor que 25");
+}
