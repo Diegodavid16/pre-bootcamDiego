@@ -71,7 +71,7 @@ console.log(result);
 
  console.log(num);
 
-console log(num) = 15
+console.log(num) = 15
 
 console.log(result) = 20
 
@@ -154,7 +154,7 @@ console.log(13)
 
 
 
-function sumNums(num1, num2) {
+ sumNums(num1, num2) {
     var sum = num1 + num2;
     console.log('sum is', sum);
     return sum;
